@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"name": "shiyan",
+			"path": "../../shiyan"
+		},
+		{
+			"name": "NodeMcu",
+			"path": ".."
+		}
+	],
+	"settings": {}
+}
